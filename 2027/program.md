@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: Program
-permalink: /program/
-nav_order: 2
+parent: PSE9 — 2027
+nav_order: 1
+permalink: /2027/program/
 ---
 
 # Program

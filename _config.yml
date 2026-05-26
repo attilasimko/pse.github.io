@@ -1,23 +1,21 @@
-title: Perspectives on Scientific Error 2027
-description: >-
-  The 9th Workshop on Perspectives on Scientific Error — addressing statistical,
-  philosophical, and meta-scientific issues of scientific error.
+title: Perspectives on Scientific Error
+description: Annual workshop on statistical, philosophical, and meta-scientific issues of scientific error.
 url: "https://attilasimko.github.io"
 baseurl: "/pse.github.io"
 
-theme: minima
-
-
-header_pages:
-  - index.md
-  - program.md
-  - call-for-abstracts.md
-  - organizers.md
-  - previous-editions.md
-
-author: PSE Organizing Committee
-
-show_excerpts: false
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-redirect-from
+
+aux_links:
+  "Join Mailing List":
+    - "https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05aZxUG5f7nZHklQvxNAfLhpUQkZJNDRBMllTTE02QUxWSTRaN1BIQUE2NC4u"
+
+aux_links_new_tab: true
+
+search_enabled: true
+
+footer_content: "Perspectives on Scientific Error Workshop Series"

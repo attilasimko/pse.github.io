@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: Call for Abstracts
-permalink: /call-for-abstracts/
-nav_order: 3
+parent: PSE9 — 2027
+nav_order: 2
+permalink: /2027/call-for-abstracts/
 ---
 
 # Call for Abstracts
