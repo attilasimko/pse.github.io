@@ -16,6 +16,6 @@ aux_links:
 
 aux_links_new_tab: true
 
-search_enabled: true
+search_enabled: false
 
 footer_content: "Perspectives on Scientific Error Workshop Series"
